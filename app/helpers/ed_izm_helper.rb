@@ -1,0 +1,2 @@
+module EdIzmHelper
+end
